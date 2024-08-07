@@ -1,7 +1,5 @@
 <div align="center">
 
-## <img style="border-radius: 25px" src="https://avatars.githubusercontent.com/u/53825642?v=4" width="150" height="auto">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=338AF7&background=FFFFFF00&center=true&width=435&lines=Yaz%C4%B1l%C4%B1m+M%C3%BChendisi;Elektrik+Elektronik+M%C3%BChendisi)](https://git.io/typing-svg)
 
 <table>
