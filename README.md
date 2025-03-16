@@ -2,7 +2,7 @@
 
 <h1>OMER FARUK ILHAN</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=338AF7&background=FFFFFF00&center=true&width=435&lines=Software+Engineer;Electrical+Electronics+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=338AF7&background=FFFFFF00&center=true&width=435&lines=Software+Developer;Electrical+Electronics+Engineer)](https://git.io/typing-svg)
 
 <table>
   <tr>
