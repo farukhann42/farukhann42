@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/farukhann42/count.svg" alt="ömerfarukilhan" /></td>
+    <td><img src="https://profile-counter.deno.dev/farukhann42/count.svg" alt="ömerfarukilhan" /></td>
   </tr>
 </table>
 
@@ -94,7 +94,7 @@
 
 <p align="center">
   <div align="center" class="icons-social" style="margin-left: 10px;">
-    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/farukhan42/">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/omerilhan/">
       <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
     </a>
    <a style="margin-left: 10px;" target="_blank" href="https://github.com/farukhann42">
