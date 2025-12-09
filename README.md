@@ -69,19 +69,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukhann42&show_icons=true&locale=en&layout=compact&theme=radical" alt="ofi" />
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=farukhann42&show_icons=true&locale=en&theme=radical" alt="ovi" width="410" /></p>
+<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farukhann42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /></p>
+<div align="center"><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=farukhann42&theme=tokyo-night&hide_border=true" alt="Omer Faruk Ilhan's Activity Graph" /></p>
 <br><br><br><br><br>
-
-
-<br>
-
-  <br/>
-   <img alt="Omer Faruk Ilhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=farukhann42&bg_color=0c0c0c&color=ff9494&line=7ae9ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" />
-  <br/>
-  <br/>
-
 
 ----
 
