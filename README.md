@@ -1,7 +1,6 @@
 <div align="center">
-
-<h1>OMER FARUK ILHAN</h1>
-
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=200&section=header&text=Omer%20Faruk%20Ilhan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=338AF7&background=FFFFFF00&center=true&width=435&lines=Software+Developer;Electrical+Electronics+Engineer)](https://git.io/typing-svg)
 
 <table>
